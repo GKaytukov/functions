@@ -5,6 +5,7 @@
     
     const addTwo = require("./external.js")
 
+    console.log("non of this minus stuff! We don't do negative!")
     
     const sum = addTwo(3,4)// addTwo is a function//the 3 is the first parameter 4 is the second parameter
     console.log(sum)
